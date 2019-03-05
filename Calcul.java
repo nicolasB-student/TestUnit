@@ -8,4 +8,10 @@ class Calcul {
         s = n1 + n2; 
         return s;
     }
+
+    public int subtraction(n1, n2) {
+        int s;
+        s = n1 - n2; 
+        return s;
+    }
 }
