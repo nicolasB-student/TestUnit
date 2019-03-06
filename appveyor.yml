@@ -1,5 +1,7 @@
+version: 1.0.{build}
 build: false
-platform: x86
+platform: x64
+image: Visual Studio 2015
 clone_folder: c:\wamp64\www\projects\tests
 branches:
   only:
@@ -13,7 +15,7 @@ init:
 cache:
   - '%LOCALAPPDATA%\Composer\files'
 
-install:
+# install:
   # - ps: Set-Service wuauserv -StartupType Manual
   # - cinst -y php composer
   # - refreshenv
@@ -30,4 +32,5 @@ install:
 
 test_script:
   - cd %APPVEYOR_BUILD_FOLDER%
-  - vendor\bin\phpunit.bat --verbose
+  # - vendor\bin\phpunit.bat --verbose
+  - cd c:\wamp64\www\2-test-unit\TestUnit\vendor\autoload.php
