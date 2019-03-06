@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e100d35-e5a5-45b4-8edf-f55881ae2192" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Calcul.php" beforeDir="false" afterPath="$PROJECT_DIR$/Calcul.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestUnitaire.php" beforeDir="false" afterPath="$PROJECT_DIR$/TestUnitaire.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1551815095082</updated>
       <workItem from="1551815102753" duration="234000" />
-      <workItem from="1551860126755" duration="1323000" />
+      <workItem from="1551860126755" duration="2394000" />
     </task>
     <servers />
   </component>
@@ -185,9 +184,12 @@
     <history-entry file="TestUnit_testCheckTypeSum - 2019.03.06 at 09h 37m 39s.xml">
       <configuration name="TestUnit.testCheckTypeSum" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="TestUnit_testCheckTypeSum - 2019.03.06 at 09h 37m 50s.xml">
+      <configuration name="TestUnit.testCheckTypeSum" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1557000" />
+    <option name="totallyTimeSpent" value="2628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
