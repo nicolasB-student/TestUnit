@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":124:{a:2:{s:7:"defects";a:1:{s:26:"TestUnit::testCheckTypeSum";i:4;}s:5:"times";a:1:{s:26:"TestUnit::testCheckTypeSum";d:0.009;}}}
