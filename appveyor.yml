@@ -1,7 +1,6 @@
 build: false
 platform: x86
-clone_folder: c:\wamp64\www\projects\tests\assert
-
+clone_folder: c:\wamp64\www\projects\tests
 branches:
   only:
     - master
@@ -16,7 +15,7 @@ cache:
 
 install:
   - ps: Set-Service wuauserv -StartupType Manual
-  - cinst -y php composer
+#   - cinst -y php composer
   - refreshenv
   - cd c:\tools\php73
   - copy php.ini-production php.ini /Y
